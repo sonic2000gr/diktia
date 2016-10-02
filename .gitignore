@@ -1,0 +1,7 @@
+*.aux
+diktia2016.lof
+*.log
+diktia2016.out
+*.pdf
+diktia2016.synctex.gz
+*.toc

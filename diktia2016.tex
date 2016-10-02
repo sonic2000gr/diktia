@@ -1,0 +1,75 @@
+% Main file for compiling the entire book
+% Diktia Ypologiston - New version for 2016 - 2017
+% (C) 2008-2016 Manolis Kiagias
+% Published under the Creative Commons License 
+%
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[a4paper,twoside,12pt]{book}
+\usepackage{fontspec,xltxtra,xunicode}
+% Begin new paragraphs with an empty line rather than an indent
+\usepackage[parfill]{parskip}
+\usepackage{xgreek}
+\usepackage{multirow}
+\usepackage{fancyvrb}
+\usepackage[colorlinks=true,linkcolor=black]{hyperref}
+% Scaling based on Scale=MatchLowercase and Times New Roman
+% causes inconsistent output between OS X and FreeBSD
+% Therefore Scale is now set as an absolute number
+\defaultfontfeatures{Scale=0.975,Mapping=tex-text}
+% Times New Roman is no longer used
+%\setromanfont{Times New Roman}
+\setsansfont{Liberation Sans}
+\setmonofont{Liberation Mono}
+\setmainfont{Liberation Serif}
+\usepackage{multicol}
+\usepackage{graphicx}
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{4}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{%
+	\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{%
+	\markright{\thesection\ #1}}
+\fancyhf{}
+\fancyhead[LE,RO]{\bfseries\thepage}
+\fancyhead[LO]{\bfseries\rightmark}
+\fancyhead[RE]{\bfseries\leftmark}
+\renewcommand{\headrulewidth}{0.5pt}
+\addtolength{\headheight}{2pt}
+\renewcommand{\footrulewidth}{0pt}
+\addtolength{\headheight}{0.5pt}
+\fancypagestyle{plain}{%
+	\fancyhead{}
+	\renewcommand{\headrulewidth}{0pt}}
+%
+% User defined environments
+%
+\newenvironment{inthebox}{\line(1,0){390}\\} %
+    {\line(1,0){390}}
+\DefineVerbatimEnvironment{richverb}%
+	{Verbatim}{commandchars=\|\[\], commentchar=\!}
+%
+%
+\author{Μανώλης Κιαγιάς, MSc}
+\title{Δίκτυα Υπολογιστών -- Το Ανεπίσημο Βοήθημα}
+\date{xx/xx/2016}
+\begin{document}
+\frontmatter
+\input {chapters/intro/intro}
+\mainmatter
+%\part{Βιβλίο Θεωρίας}
+\input {chapters/chapter1/chapter1}
+\input {chapters/chapter2/chapter2}
+\input {chapters/chapter3/chapter3}
+\input {chapters/chapter4/chapter4}
+\input {chapters/chapter5/chapter5}
+\input {chapters/chapter6/chapter6}
+\input {chapters/chapter7/chapter7}
+\input {chapters/chapter8/chapter8}
+%\part{Παραρτήματα}
+%\appendix
+%\input {chapters/appendix/appendixa}
+\end{document}
