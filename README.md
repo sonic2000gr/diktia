@@ -7,7 +7,7 @@ Greek Version
 
 Για έτοιμο PDF του βιβλίου (ανανεώνεται κάθε φορά που γίνονται αλλαγές) χρησιμοποιήστε τον παρακάτω σύνδεσμο:
 
-Βιβλίο σε μορφή PDF: http://www.freebsdworld.gr/files/diktia2016.pdf
+Βιβλίο σε μορφή PDF: http://www.freebsdworld.gr/diktia/diktia2016.pdf
 
 Επίσημη δικτυακή τοποθεσία του μαθήματος: http://diktia.chania-lug.gr
 
@@ -18,4 +18,4 @@ English Version
 LaTeX source files for Diktia 2016-2017 EPAL book (greek).
 This is a book on networking to assist students in Greek Secondary Education Technical Schools, pursuing higher education on informatics courses. It is expected to be completed during January 2017.
 
-Download PDF file from: http://www.freebsdworld.gr/files/diktia2016.pdf
+Download PDF file from: http://www.freebsdworld.gr/diktia/diktia2016.pdf
