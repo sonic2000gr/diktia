@@ -7,3 +7,5 @@ diktia2016.synctex.gz
 *.toc
 *.odg#
 *.~vsd
+*.db
+images/chapter3/Thumbs.db
