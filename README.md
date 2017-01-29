@@ -11,11 +11,11 @@ Greek Version
 
 Επίσημη δικτυακή τοποθεσία του μαθήματος: http://diktia.chania-lug.gr
 
-Το βιβλίο βρίσκεται σε διαδικασία συγγραφής, αναμένεται να ολοκληρωθεί τέλη Ιανουαρίου 2017.
+Το βιβλίο βρίσκεται σε διαδικασία συγγραφής, αναμένεται να ολοκληρωθεί τέλη Φεβρουαρίου 2017.
 
 English Version
 
 LaTeX source files for Diktia 2016-2017 EPAL book (greek).
-This is a book on networking to assist students in Greek Secondary Education Technical Schools, pursuing higher education on informatics courses. It is expected to be completed during January 2017.
+This is a book on networking to assist students in Greek Secondary Education Technical Schools, pursuing higher education on informatics courses. It is expected to be completed during February 2017.
 
 Download PDF file from: http://www.freebsdworld.gr/diktia/diktia2016.pdf
