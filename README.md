@@ -19,3 +19,4 @@ LaTeX source files for Diktia 2016-2017 EPAL book (greek).
 This is a book on networking to assist students in Greek Secondary Education Technical Schools, pursuing higher education on informatics courses. The book is currently in beta version (text complete)
 
 Download PDF file (beta1 version) from: http://www.freebsdworld.gr/diktia/diktia2016.pdf
+ 
