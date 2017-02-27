@@ -1,4 +1,4 @@
-Greek Version
+﻿Greek Version
 
 Εδώ θα βρείτε τα αρχεία LaTeX για το βοήθημα "Δίκτυα Υπολογιστών" έκδοσης 2016-2017. Το βιβλίο προορίζεται ως βοήθημα για το αντίστοιχο πανελλαδικά εξεταζόμενο μάθημα των ΕΠΑΛ στους τομείς Πληροφορικής και Ηλεκτρονικής και ακολουθεί την εξεταστέα ύλη όπως έχει ανακοινωθεί από το Υπουργείο Παιδείας.
 Στο φάκελο Presentation θα βρείτε μια παρουσίαση κατάλληλη για χρήση στο μάθημα (κυρίως σχήματα/εικόνες/πίνακες, όχι κείμενο). Μπορείτε να την κατεβάσετε απευθείας από τον παρακάτω σύνδεσμο:
@@ -11,11 +11,11 @@ Greek Version
 
 Επίσημη δικτυακή τοποθεσία του μαθήματος: http://diktia.chania-lug.gr
 
-Το βιβλίο βρίσκεται σε διαδικασία συγγραφής, αναμένεται να ολοκληρωθεί τέλη Φεβρουαρίου 2017.
+Το βιβλίο έχει ολοκληρωθεί και βρίσκεται σε διαδικασία ελέγχου. Το παραπάνω αρχείο είναι η έκδοση beta1.
 
 English Version
 
 LaTeX source files for Diktia 2016-2017 EPAL book (greek).
-This is a book on networking to assist students in Greek Secondary Education Technical Schools, pursuing higher education on informatics courses. It is expected to be completed during February 2017.
+This is a book on networking to assist students in Greek Secondary Education Technical Schools, pursuing higher education on informatics courses. The book is currently in beta version (text complete)
 
-Download PDF file from: http://www.freebsdworld.gr/diktia/diktia2016.pdf
+Download PDF file (beta1 version) from: http://www.freebsdworld.gr/diktia/diktia2016.pdf
