@@ -17,7 +17,7 @@
 
 English Version
 
-LaTeX source files for Diktia 2016-2017 EPAL book (greek).
+LaTeX source files for Diktia 2017-2018 EPAL book (greek).
 This is a book on networking to assist students in Greek Secondary Education Technical Schools, pursuing higher education on informatics courses. The book has been released, current version is 2.00
 
 Download PDF file (v2.00) from: http://www.freebsdworld.gr/diktia/diktia2017.pdf
