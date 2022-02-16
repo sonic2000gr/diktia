@@ -14,8 +14,6 @@
 
 Εξώφυλλο (μορφή LibreOffice): https://github.com/sonic2000gr/diktia/blob/master/covers/cover2017-2.odt
 
-Επίσημη δικτυακή τοποθεσία του μαθήματος: http://diktia.chania-lug.gr
-
 
 English Version
 
